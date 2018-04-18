@@ -15,7 +15,7 @@ module.exports = {
         let arg = req.body.project;
         console.log(arg);
         Project.create(arg).then(()=>{
-           return res.redirect("/");
+           res.redirect("/");
         })
     },
     editGet: (req, res) => {
