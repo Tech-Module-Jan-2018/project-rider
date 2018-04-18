@@ -13,8 +13,8 @@ module.exports = {
 
     createPost: (req, res) => {
         let arg = req.body.project;
-        console.log(arg);
-        Project.create(arg).then(()=>{
+        console.log(args);
+        Project.create(args).then(()=>{
            res.redirect("/");
         })
     },
