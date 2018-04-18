@@ -12,7 +12,7 @@ module.exports = {
     },
 
     createPost: (req, res) => {
-        let arg = req.body.project;
+        let args = req.body.project;
         console.log(args);
         Project.create(args).then(()=>{
            res.redirect("/");
