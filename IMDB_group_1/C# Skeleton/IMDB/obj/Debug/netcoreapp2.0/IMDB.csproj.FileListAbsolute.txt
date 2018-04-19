@@ -1,0 +1,11 @@
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojResolveAssemblyReference.cache
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+C:\Users\Guest Lector\Desktop\IMDB\C# Skeleton\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb
